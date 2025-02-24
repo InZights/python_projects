@@ -5,24 +5,9 @@ Welcome to my Python Projects Portfolio! This repository showcases a collection 
 #### Projects
 Below is a list of the projects included in this portfolio:
 
-#### Project Name 1
+#### Project List
 
-Description: Brief description of the project.
-Features: Key features of the project.
-Usage: Instructions on how to use the project.
 
-#### Project Name 2
-
-Description: Brief description of the project.
-Features: Key features of the project.
-Usage: Instructions on how to use the project.
-
-#### Project Name 3
-
-Description: Brief description of the project.
-Features: Key features of the project.
-Usage: Instructions on how to use the project.
-(Continue listing your projects in a similar format)
 
 #### Installation
 To run any of the projects in this portfolio, you need to have Python installed on your computer. You can download Python from the official website.
