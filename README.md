@@ -28,7 +28,7 @@ Usage: Instructions on how to use the project.
 To run any of the projects in this portfolio, you need to have Python installed on your computer. You can download Python from the official website.
 
 #### Clone the repository:
-git clone https://github.com/yourusername/python_projects_portfolio.git
+git clone https://github.com/InZights/python_projects.git
 Navigate to the project directory:
 cd python_projects_portfolio
 
@@ -42,4 +42,4 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 #### Contact
-If you have any questions or feedback, feel free to reach out to me at your.email@example.com.
+If you have any questions or feedback, feel free to reach out to me at jhmacasarte@gmail.com.
