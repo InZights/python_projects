@@ -6,8 +6,8 @@ Welcome to my Python Projects Portfolio! This repository showcases a collection 
 Below is a list of the projects included in this portfolio:
 
 #### Project List
-Name: US State Guessing Game
-Description:
+#### Name: US State Guessing Game
+#### Description:
 The US State Guessing Game is a fun and educational Python game where players try to guess the names of US states. The game provides hints and tracks the player's progress, making it a great way to learn and test your knowledge of US geography.
 
 
